@@ -1,0 +1,25 @@
+Note functions will be stored and executed in stack. Do recursions keeping stack trace in mind and the function/variable state in each stack
+
+To solve Recursion
+..................
+1. Divide the problem into smaller sub-problems
+2. Specify the Base Condition to stop the Recursion (else it will go to infinite loop)
+
+4 types of Recursion
+....................
+1. Direct Recursion
+2. Indirect Recursion
+3. Tail Recursion (recursive function call will be the last step)
+4. Non-Tail Recursion (there)
+
+Tail Recursion
+..............
+Recursive function call will be the last step. There is no need to keep the record of the previous state to do next steps.
+In this case code wil be executed (or things will be printed) in the same order as the function is called as all the code is present before the recursive function call
+Ex: fun(3) -> 3 2 1
+
+
+Non-Tail Recursion
+..................
+Recursive function call is not the last step. We need to keep the record of the previous state to do next steps.
+In this case code will be executed (or things will be printed) in reverse order of the function call (the code which is after the recursive function call) as some is present after the recursive function call.
