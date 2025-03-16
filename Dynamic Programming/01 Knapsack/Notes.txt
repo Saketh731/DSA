@@ -1,0 +1,24 @@
+Types of Knapsack Problem
+..........................
+[IMG: 1]
+
+Example of Knapsack Problem
+............................
+[IMG:1]
+
+Explanation of Types of Knapsacks
+.................................
+[IMG:2]
+
+0/1 Knapsack Recursive Code
+............................
+[IMG:3]
+
+0/1 Knapsack Memoized Code
+...........................
+[IMG:4]
+
+
+0/1 Knapsack Top-Down Code
+...........................
+[IMG:5-6]

@@ -1,0 +1,11 @@
+How to recognize DP problem?
+............................
+[IMG:1]
+
+How to solve DP Problem?
+........................
+[IMG:2]
+
+Types of DP
+...........
+[IMG:3]
