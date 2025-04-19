@@ -1,9 +1,9 @@
 Types of Knapsack Problem
-..........................
+.................................
 [IMG: 1]
 
 Example of Knapsack Problem
-............................
+.................................
 [IMG:1]
 
 Explanation of Types of Knapsacks
@@ -11,14 +11,41 @@ Explanation of Types of Knapsacks
 [IMG:2]
 
 0/1 Knapsack Recursive Code
-............................
+.................................
 [IMG:3]
 
 0/1 Knapsack Memoized Code
-...........................
+.................................
 [IMG:4]
 
-
 0/1 Knapsack Top-Down Code
-...........................
+.................................
 [IMG:5-6]
+
+Subset Sum
+.................................
+[IMG:7-8]
+
+Equal Sum Partition
+.................................
+[IMG:9]
+
+Count of Subsets Sum
+.................................
+[IMG:10]
+
+Print all Subsets Sum
+.................................
+[IMG:11]
+
+Minimum Subset Sum Difference
+.................................
+[IMG:12]
+
+Count the number of Subsets with a given difference
+....................................................
+[IMG:13]
+
+Target Sum
+.................................
+[IMG:14]
